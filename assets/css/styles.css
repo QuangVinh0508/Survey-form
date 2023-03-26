@@ -42,6 +42,7 @@ body {
 .header h1,
 .header p {
   margin-bottom: 8px;
+  padding: 2rem;
 }
 
 #title {
@@ -59,7 +60,7 @@ body {
   margin-top: 30px;
   background: var(--color-darkblue-alpha);
   border-radius: 0.25rem;
-  padding: 4rem;
+  padding: 2rem;
   display: flex;
   flex-direction: column;
   gap: 20px;
